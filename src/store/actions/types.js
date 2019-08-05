@@ -1,0 +1,2 @@
+export const BOOK_HOTEL_SUBMIT = 'BOOK_HOTEL_SUBMIT';
+export const HIDE_SNACKBAR = 'CLOSE_SNACKBAR';

@@ -1,0 +1,162 @@
+{
+  "11": {
+    "id": "11",
+    "name": "Britannia International Hotel Canary Wharf",
+    "stars": 4,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/507/50756453.jpg",
+    "description": "Britannia International Hotel Canary Wharf has spacious rooms and limited free WiFi access in bedrooms, just 600 m from Canary Wharf Underground Station.",
+    "city": "London"
+  },
+  "12": {
+    "id": "12",
+    "name": "Concept Living Apartments Kensington",
+    "stars": 4,
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/132/132215529.jpg",
+    "description": "Set in London, Concept Living Apartments Kensington offers city views and free WiFi, 1.5 km from Olympia Exhibition Centre and 1.8 km from Natural History Museum.",
+    "city": "London"
+  },
+  "13": {
+    "id": "13",
+    "name": "Trinity Peach Tree",
+    "stars": 4,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/211/211438301.jpg",
+    "description": "Located in London, 5 km from Tower of London and 5 km from Victoria Park, Trinity Peach Tree provides accommodation with amenities such as free WiFi and a flat-screen TV",
+    "city": "London"
+  },
+  "14": {
+    "id": "14",
+    "name": "London City Gate - Kings Cross - St Pancras",
+    "stars": 3,
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/187/187924911.jpg",
+    "description": "Offering free WiFi, London City Gate - Kings Cross - St Pancras is set in the Central London and it near King's Cross Theatre. Guests have a terrace and garden.",
+    "city": "London"
+  },
+  "15": {
+    "id": "15",
+    "name": "Notting Hill Apartment",
+    "stars": 5,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/115/115192128.jpg",
+    "description": "Featuring free WiFi throughout the property, LG is an apartment set in London, 300 metres from Portobello Road Market. The apartment is 2.2 km from Olympia Exhibition Centre.",
+    "city": "London"
+  },
+  "21": {
+    "id": "21",
+    "name": "Izmailovo Beta Hotel",
+    "stars": 3,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/904/90460449.jpg",
+    "description": "Set near the Izmailovsky Park, within a 3-minute walk of Partizanskaya Metro Station, Izmailovo Beta Hotel features free WiFi, banquet and meeting facilities and a variety of dining options.",
+    "city": "Moscow"
+  },
+  "22": {
+    "id": "22",
+    "name": "Winterfell on Kropotkinskaya",
+    "stars": 2,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/128/128503145.jpg",
+    "description": "Set in Moscow, an 8-minute walk from Cathedral of Christ the Saviour and Kropotkinskaya Metro Station, Winterfell on Kropotkinskaya features rooms with air conditioning and free WiFi.",
+    "city": "Moscow"
+  },
+  "23": {
+    "id": "23",
+    "name": "Raikin Plaza Hotel",
+    "stars": 4,
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/406/40687093.jpg",
+    "description": "Raikin Plaza Hotel is located in the central part of Moscow, 50 metres from Maryina Roshcha Metro Station. Free Wi-Fi is provided.",
+    "city": "Moscow"
+  },
+  "24": {
+    "id": "24",
+    "name": "Holiday Inn Moscow - Seligerskaya",
+    "stars": 4,
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/152/152885783.jpg",
+    "description": "Holiday Inn Moscow - Seligerskaya Hotel offers an indoor swimming pool, a fully equipped gym and a sauna. Free private parking and free WiFi are available throughout the hotel.",
+    "city": "Moscow"
+  },
+  "25": {
+    "id": "25",
+    "name": "Holiday Inn Moscow Lesnaya",
+    "stars": 4,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/164/164529681.jpg",
+    "description": "Surrounded by the restaurants of Lesnaya Street, this modern hotel in central Moscow offers soundproofed rooms with flat-screen TV, international cuisine, and a gym with modern exercise machines.",
+    "city": "Moscow"
+  },
+  "31": {
+    "id": "31",
+    "name": "Hotel Pennsylvania",
+    "stars": 2,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/577/57772519.jpg",
+    "description": "This Manhattan hotel is located across the street from Madison Square Garden and Penn Station",
+    "city": "New York"
+  },
+  "32": {
+    "id": "32",
+    "name": "Martinique New York on Broadway, Curio Collection by Hilton",
+    "stars": 4,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/180/180071428.jpg",
+    "description": "This Beaux-Arts hotel with a French Renaissance design has a restaurant/bar and enjoys a central Manhattan location. It is located less than 1 km from Times Square and Penn Station is 644 m from the property.",
+    "city": "New York"
+  },
+  "33": {
+    "id": "33",
+    "name": "Club Quarters Hotel Midtown - Times Square",
+    "stars": 4,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/709/70971002.jpg",
+    "description": "Offering an on-site restaurant and 24-hour concierge services, this hotel is located in a historic Midtown Manhattan building within walking distance of top attractions. Free WiFi access is offered.",
+    "city": "New York"
+  },
+  "34": {
+    "id": "34",
+    "name": "Hampton Inn Manhattan Grand Central",
+    "stars": 4,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/179/179899394.jpg",
+    "description": "Located in Manhattan, this New York hotel offers free Wi-Fi and rooms equipped with a flat-screen TV and plush bedding.",
+    "city": "New York"
+  },
+  "35": {
+    "id": "35",
+    "name": "Duane Street Hotel Tribeca",
+    "stars": 4,
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/143/143592917.jpg",
+    "description": "Surrounded by art galleries and shops in the lively Tribeca neighbourhood of lower Manhattan, this boutique hotel offers an on-site restaurant and rooms with flat-screen cable TVs and free Wi-Fi.",
+    "city": "New York"
+  },
+  "41": {
+    "id": "41",
+    "name": "Hôtel Bourg Tibourg",
+    "stars": 4,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/192/192286433.jpg",
+    "description": "Boasting a garden, Hôtel Bourg Tibourg is situated in Paris in the Ile de France region, 1.3 km from Pompidou Centre and 1.7 km from Sainte-Chapelle.",
+    "city": "Paris"
+  },
+  "42": {
+    "id": "42",
+    "name": "Hotel Le petit Paris",
+    "stars": 4,
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/679/67909730.jpg",
+    "description": "Located 250 m from the Luxembourg Garden, this hotel offers luxurious guest rooms set in an 18th-century building at the heart of the Latin Quarter.",
+    "city": "Paris"
+  },
+  "43": {
+    "id": "43",
+    "name": "Hôtel La Parizienne by Elegancia",
+    "stars": 3,
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/100/100122272.jpg",
+    "description": "Hôtel La Parizienne by Elegancia is a design hotel located in in the chic 6th district in Paris, a 10-minute walk from the Luxembourg Gardens.",
+    "city": "Paris"
+  },
+  "44": {
+    "id": "44",
+    "name": "Hotel Lumen Paris Louvre",
+    "stars": 4,
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/741/74190423.jpg",
+    "description": "This elegant hotel is located in central Paris, just a 5-minute walk from The Louvre Museum. The hotel offers a bar and restaurant with terrace. Free Wi-Fi is provided.",
+    "city": "Paris"
+  },
+  "45": {
+    "id": "45",
+    "name": "Hôtel des Grands Hommes",
+    "stars": 3,
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/593/59371924.jpg",
+    "description": "Set in an 18th-century building opposite the Panthéon, this hotel is 400 m from the Luxembourg Garden. It has a 24-hour reception with a tour desk and a ticket service.",
+    "city": "Paris"
+  }
+}
