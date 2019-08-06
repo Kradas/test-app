@@ -9,7 +9,7 @@ import HotelInfoContainer from './containers/HotelInfoContainer';
 function App() {
   return (
     <Provider store={store}>
-      <Router>
+      <Router basename='/test-app/'>
         <Route exact path="/" component={DashboardContainer} />
         <Route path="/hotel/:hotelId" component={HotelInfoContainer} />
       </Router>
