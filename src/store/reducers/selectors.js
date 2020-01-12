@@ -11,7 +11,7 @@ export const selectSnackbar = state => state.main.isSnackbarShown;
 const createDeepEqualSelector = createSelectorCreator(defaultMemoize, isEqual);
 
 export const selectRandomHotels = createDeepEqualSelector(selectHotels, hotels => {
-  return sampleSize(hotels, 5);
+  return sampleSize(hotels, 6);
 });
 
 export const selectSearchResults = createDeepEqualSelector(

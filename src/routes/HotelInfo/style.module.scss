@@ -1,0 +1,29 @@
+.card {
+  width: 60%;
+}
+
+.media {
+  height: 300px;
+}
+
+.hotelName {
+  display: flex;
+  align-items: center;
+}
+
+.form {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 2%;
+
+  .dateFields {
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.snackbar {
+  background-color: #43a047;
+}

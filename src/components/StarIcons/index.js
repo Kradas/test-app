@@ -3,15 +3,15 @@ import Icon from '@material-ui/core/Icon';
 import classes from './style.module.scss';
 
 function StarIcons({ stars = 1 }) {
-  let icons = [];
-  for (let i = 0; i < stars; i++) {
-    icons.push(
-      <Icon className={classes.star} key={i}>
+  const arr = [...Array(stars)].reduce((prevVal, currentVal, index) => {
+    return [
+      ...prevVal,
+      <Icon key={index} className={classes.star}>
         star
       </Icon>,
-    );
-  }
-  return <div className={classes.starsContainer}>{icons}</div>;
+    ];
+  }, []);
+  return <div className={classes.starsContainer}>{arr}</div>;
 }
 
 export default StarIcons;

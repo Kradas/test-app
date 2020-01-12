@@ -1,20 +1,25 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-import { store } from './store';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
-import './App.scss';
-import DashboardContainer from './containers/DashboardContainer';
-import HotelInfoContainer from './containers/HotelInfoContainer';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import Container from '@material-ui/core/Container';
 
-function App() {
-  return (
+import { store } from './store';
+import Dashboard from './routes/Dashboard';
+import HotelInfo from './routes/HotelInfo';
+
+import './App.scss';
+
+const App = () => (
+  <Container className='layout'>
     <Provider store={store}>
-      <Router basename='/test-app/'>
-        <Route exact path="/" component={DashboardContainer} />
-        <Route path="/hotel/:hotelId" component={HotelInfoContainer} />
+      <Router basename="/test-app/">
+        <Switch>
+          <Route exact path="/" component={Dashboard} />
+          <Route path="/hotel/:hotelId" component={HotelInfo} />
+        </Switch>
       </Router>
     </Provider>
-  );
-}
+  </Container>
+);
 
 export default App;
